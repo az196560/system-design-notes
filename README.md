@@ -151,6 +151,9 @@ system-design-notes/
 ### 08 高频补充
 - **Design Online IDE** — MicroVM 安全隔离、CRDT 协作、WebSocket 终端
 - **Design Model Distribution** — GPU 推理优化、Continuous Batching、弹性扩缩容
+- **Design Google Flights** — 预计算+实时混合搜索、中转路径图搜索、价格缓存 TTL、灵活搜索
+- **Design Expedia** — 多供应商聚合适配层、Saga 跨供应商预订补偿、两阶段验价、打包定价
+- **Design Ticketmaster** — 虚拟排队削峰、座位锁定+超时释放、Redis 原子防超卖、黄牛防控
 
 ### 09 AI 基础设施
 
