@@ -154,6 +154,9 @@ system-design-notes/
 - **Design Google Flights** — 预计算+实时混合搜索、中转路径图搜索、价格缓存 TTL、灵活搜索
 - **Design Expedia** — 多供应商聚合适配层、Saga 跨供应商预订补偿、两阶段验价、打包定价
 - **Design Ticketmaster** — 虚拟排队削峰、座位锁定+超时释放、Redis 原子防超卖、黄牛防控
+- **Design Recommendation System** — News Feed / 短视频 / 好友三场景，多路召回 + 多层排序 + 多目标建模
+- **Design Harmful Content Detection** — 同步快检+异步深检、哈希库防复发、多模态检测、HITL 反馈闭环
+- **Design Bot Detection** — 网络/浏览器/行为/业务多信号融合、GBDT+图聚类、静默降级对抗
 
 ### 09 AI 基础设施
 
